@@ -1,0 +1,1 @@
+# Methods-for-Automatic-Classification-of-Buildings-According-to-Standard-Taxonomies
