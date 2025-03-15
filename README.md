@@ -5,12 +5,18 @@ Bem-vindo ao repositório da minha tese! Aqui você encontrará todos os materia
 
 **Conteúdo**
 Dados: Arquivos .csv com os atributos e conjuntos de dados (imagens) utilizados na pesquisa.
+
 Scripts: Códigos e análises que dão suporte aos resultados apresentados.
+
 Manuscrito da Tese: Acesse o projeto Overleaf para acompanhar o desenvolvimento do documento.
-Instruções de Uso
+
+**Instruções de Uso**
 Clonagem: Faça o clone do repositório para acessar todos os arquivos.
+
 Exploração: Navegue pelas pastas para encontrar os dados e scripts necessários.
-Atualizações: Consulte o link do Overleaf para ver as últimas versões e alterações do manuscrito.
+
+Atualizações: Consulte o link do Overleaf para ver as últimas versões e alterações do manuscrito. Link para o acesso: https://www.overleaf.com/2871428463qhnrgpmhykrb#43ba02
+
 Contribuições
 Contribuições são bem-vindas! Se desejar sugerir melhorias ou reportar algum problema, abra uma issue ou envie um pull request.
 
